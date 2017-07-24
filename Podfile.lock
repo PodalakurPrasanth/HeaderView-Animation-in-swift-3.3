@@ -1,0 +1,12 @@
+PODS:
+  - OLSDynamicHeaderViewController (0.1.0)
+
+DEPENDENCIES:
+  - OLSDynamicHeaderViewController
+
+SPEC CHECKSUMS:
+  OLSDynamicHeaderViewController: d05481504414c8e16269e58fc6ee3da314f06729
+
+PODFILE CHECKSUM: a5a0a768128f823dd7a81254528ca3c1e1465eaa
+
+COCOAPODS: 1.2.1
